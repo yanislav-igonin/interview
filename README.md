@@ -1,4 +1,4 @@
-# sobesy-sobesiki
+# interview-materials (sobesy-sobesiki)
 This repo is for sobesiki info, theory and more. Will be 
 
 ## Patterns
