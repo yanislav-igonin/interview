@@ -7,5 +7,7 @@ https://itnext.io/design-patterns-in-nodejs-990fed17c49c - дизайн патт
 ## Javascript
 https://github.com/sudheerj/javascript-interview-questions - сборник вопросов и ответов на популярные вопросы на интервью по жиэс 
 
+https://github.com/lydiahallie/javascript-questions - также сборник вопросов и ответов на разные вопросы по жиэс. варианты на многих языках, включая рус и анг
+
 ## React
 https://github.com/sudheerj/reactjs-interview-questions - сборник вопросов и ответов на популярные вопросы на интервью по реакту
